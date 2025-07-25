@@ -23,7 +23,8 @@ Quality Assurance Engineer and Cybersecurity Passionate.
 
 ## QA Competencies
 General
-| Creating and maintaining test cases | Reporting and tracking defects | Creating documentation | BDD | Continuous Integration |
+
+| Creating and maintaining test cases | Reporting and tracking defects | Creating documentation | BDD | Continuous Integration | Code Review |
 
 Manual Testing
 + Creating, maintaining and executing manual tests (Web/Mobile/Desktop)
@@ -36,6 +37,7 @@ Automation Testing
 | Regression | Functional | E2E |
 
 CyberSec
++ Creating education graphics
 + Knowledge of ISO 27001 standards (Internal auditor)
 
 
