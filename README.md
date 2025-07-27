@@ -39,6 +39,7 @@ Automation Testing
 CyberSec
 + Creating education graphics
 + Knowledge of ISO 27001 standards (Internal auditor)
++ CTF fan
 
 
 
