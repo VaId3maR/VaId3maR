@@ -4,7 +4,7 @@
 Quality Assurance Engineer and Cybersecurity Passionate.
 
 ## My projects
-- TBD
+-  LINUX [Permissions scaner for files and catalogs] https://github.com/VaId3maR/Automatic_Or_Custom_Permissions_Scaner_For_Files_And_Catalogs
 
 ## My articles
 + https://testuj.pl/blog/jak-zostac-testerem-automatyzujacym/
