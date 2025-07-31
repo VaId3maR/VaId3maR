@@ -4,7 +4,7 @@
 Quality Assurance Engineer and Cybersecurity Passionate.
 
 ## My projects
--  LINUX [Permissions scaner for files and catalogs]
+-  BASH [Permissions scaner for files and catalogs]
    https://github.com/VaId3maR/Automatic_Or_Custom_Permissions_Scaner_For_Files_And_Catalogs
 -  JAVA [Challenge for QA]
    https://github.com/VaId3maR/JAVA_Challenge_For_QA
