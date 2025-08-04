@@ -5,13 +5,13 @@ Quality Assurance Engineer and Cybersecurity Passionate.
 
 ## My projects
 -  BASH [Permissions scaner for files and catalogs]
-   https://github.com/VaId3maR/Automatic_Or_Custom_Permissions_Scaner_For_Files_And_Catalogs
+   - https://github.com/VaId3maR/Automatic_Or_Custom_Permissions_Scaner_For_Files_And_Catalogs
 -  JAVA [Challenge for QA]
-   https://github.com/VaId3maR/JAVA_Challenge_For_QA
+   - https://github.com/VaId3maR/JAVA_Challenge_For_QA
 - PYTHON [Cracking pdf file with extracting metadata]
-   https://github.com/VaId3maR/PYTHON_Cracking_Pdf_File_With_Extracting_Metadata
+   - https://github.com/VaId3maR/PYTHON_Cracking_Pdf_File_With_Extracting_Metadata
 - QA [Przewodnik_Kodow_Odpowiedzi_HTTP_dla_QA]
-  https://github.com/VaId3maR/Przewodnik_Kodow_Odpowiedzi_HTTP_dla_QA
+   - https://github.com/VaId3maR/Przewodnik_Kodow_Odpowiedzi_HTTP_dla_QA
 
 ## My articles
 + https://testuj.pl/blog/jak-zostac-testerem-automatyzujacym/
