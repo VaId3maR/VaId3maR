@@ -33,22 +33,17 @@ Quality Assurance Engineer and Cybersecurity Passionate.
 | Java | Python | C# | Groovy | Selenium | TestNG | Postman | Git | GitLab | Jenkins | PyCharm | SQL | Azure DevOps | Jira | Confluence | TestRail | Zephyr | Docker | Figma |
 
 ## QA Competencies
-General
+### General
 
 | Creating and maintaining test cases | Reporting and tracking defects | Creating documentation | BDD | Continuous Integration | Code Review |
 
-Manual Testing
+### Manual Testing
 + Creating, maintaining and executing manual tests (Web/Mobile/Desktop)
 
-Automation Testing
+### Automation Testing
 + Creating, maintaining and executing automation tests (Web/Desktop)
 
 ## CyberSec Competencies
 + Creating education graphics
 + Knowledge of ISO 27001 standards (Internal auditor)
 + CTF fan
-
-
-
-
-
