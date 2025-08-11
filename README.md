@@ -40,14 +40,10 @@ General
 Manual Testing
 + Creating, maintaining and executing manual tests (Web/Mobile/Desktop)
 
-| Regression | Functional | White-box | Ad hoc | API | Retest |
-
 Automation Testing
 + Creating, maintaining and executing automation tests (Web/Desktop)
 
-| Regression | Functional | E2E |
-
-CyberSec
+## CyberSec Competencies
 + Creating education graphics
 + Knowledge of ISO 27001 standards (Internal auditor)
 + CTF fan
